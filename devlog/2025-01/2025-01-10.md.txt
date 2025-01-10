@@ -1,0 +1,35 @@
+# Dev Log Entry - January 10, 2025
+
+## Today's Progress
+- Set up project development repository
+- Created basic folder structure for documentation
+- Established development tracking system
+- Began planning game development journey
+
+## Project Setup Details
+- Created main repository structure
+- Set up development log system
+- Organized folders for:
+  - Development logs
+  - Resources and learning materials
+  - Planning and design documents
+
+## Next Steps
+- Complete Game Design course (3-week goal)
+- Join Godot Discord community
+- Start weekly learning log
+- Begin course work documentation
+
+## Time Spent
+- Project Setup: 1 hour
+- Planning: 1 hour
+
+## Notes & Ideas
+- Consider creating project milestones in GitHub Issues
+- Need to research best Godot learning resources
+- Plan to document course learnings in resources folder
+
+## Tomorrow's Goals
+- Begin Game Design course work
+- Create first learning log entry
+- Research and compile list of Godot learning resources
