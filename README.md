@@ -1,2 +1,2 @@
 # game-dev-journey
-A documented journey of indie game development - 2025 Project 
+A documented journey of my indie game development journey in 2025. 
