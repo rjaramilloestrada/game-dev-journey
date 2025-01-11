@@ -1,0 +1,79 @@
+# The Purge - Game Design Document Progress
+## Unit 3 Completion Devlog
+
+### 📅 Date: January 11, 2025
+### 🎯 Milestone: Unit 3 Completion - Core Gameplay Systems Documentation
+
+#### 🔄 Today's Progress
+
+We've successfully completed the documentation of core gameplay systems for The Purge, our cooperative survival horror FPS. Key achievements include:
+
+1. **Detailed Character System Documentation**
+   - Established four unique playable characters with distinct abilities
+   - Created balanced role distribution for cooperative gameplay
+   - Documented specific abilities for each character archetype
+
+2. **Advanced AI Systems Design**
+   - Implemented detailed documentation for the "Sabuesos" (guard dogs) AI system
+   - Developed five distinct behavioral states for enemy AI
+   - Created comprehensive scent and sound detection mechanics
+
+3. **Survival Mechanics Documentation**
+   - Established three-tier wound system
+   - Documented healing item hierarchy
+   - Integrated survival mechanics with AI detection systems
+
+4. **Environmental Hazards**
+   - Documented various trap types and their mechanics
+   - Created systemic interaction between traps and player states
+   - Designed counterplay mechanics for each hazard type
+
+#### 🔍 Technical Insights
+
+The documentation now includes detailed specifications for:
+- AI behavior trees and state machines
+- Environmental interaction systems
+- Player status effects and their propagation
+- Trap triggering and avoidance mechanics
+
+#### 🎮 Gameplay Loop Refinements
+
+- Enhanced cooperative gameplay through interdependent character abilities
+- Created tension through persistent threat systems (dogs, cameras, traps)
+- Established risk-reward mechanics in healing and movement systems
+
+#### 📚 Lessons Learned
+
+1. Importance of systemic design in horror games
+2. Balance between player empowerment and vulnerability
+3. Integration of narrative elements through environmental storytelling
+4. Effective documentation of complex AI behaviors
+
+#### 🎯 Next Steps
+
+1. Begin prototyping core movement and interaction systems
+2. Create initial AI behavior prototypes
+3. Design level layouts based on documented mechanics
+4. Implement basic trap and security systems
+
+### 🔧 Technical Foundations
+
+The document now provides clear guidelines for implementing:
+- Character control systems
+- AI behavior patterns
+- Environmental hazard triggers
+- Player status management
+- Cooperative gameplay mechanics
+
+#### 🎨 Design Philosophy Updates
+
+The documentation emphasizes:
+- Tension through systemic interactions
+- Player choice and consequence
+- Cooperative problem-solving
+- Environmental storytelling
+- Dynamic threat response
+
+---
+
+This marks the completion of Unit 3, establishing solid foundations for our core gameplay systems. The next phase will focus on implementation and prototyping of these documented systems.
