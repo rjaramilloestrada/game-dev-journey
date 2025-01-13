@@ -1,0 +1,71 @@
+# Game Design Course - Devlog Entry
+
+## Course: Introduction to Game Design
+**Platform:** Domestika
+**Date:** January 13, 2025
+
+### Today's Topics
+1. Main Character Documentation
+2. Enemy Design Documentation
+3. Weapon Systems Documentation
+
+## Lessons Learned
+
+### Main Character Documentation
+Today I learned the crucial importance of thorough character documentation in game design. Key takeaways:
+- Character psychology and background story are fundamental to creating believable protagonists
+- Abilities and skills need to be clearly documented for development purposes
+- Character design should support gameplay mechanics
+- Documentation should cover both narrative and mechanical aspects of the character
+
+### Enemy Design Documentation
+Gained valuable insights into NPC and enemy design:
+- Distinction between generic enemies and boss characters
+- Importance of detailed behavior documentation
+- Movement patterns and AI behavior types
+- Combat engagement patterns
+- Need for clear documentation of enemy mechanics and behaviors
+- Different types of NPC interactions and their implementation
+
+### Weapon Systems Documentation
+Learned about comprehensive weapon documentation:
+- Importance of detailed weapon specifications
+- Balance considerations in weapon design
+- Documentation of weapon mechanics and behaviors
+- Integration with character and enemy systems
+
+## Key Insights
+- Documentation is crucial for maintaining consistency in game design
+- Clear documentation helps bridge the gap between design and implementation
+- Detailed specifications help prevent misunderstandings during development
+- Systematic approach to documenting game elements improves workflow
+
+## Next Steps
+- Apply learned documentation principles to my current game project
+- Create detailed documentation templates for future use
+- Review and update existing game design documents
+- Implement learned structures in upcoming game design work
+- Prepare for upcoming gameplay mechanics documentation lessons
+- Study level design principles for next module
+
+## Upcoming Lessons
+### Gameplay Design Documentation
+- Core gameplay mechanics
+- Player interactions
+- Game rules and systems
+- Balance and progression
+
+### Level Design Documentation
+- Level structure and flow
+- Environment design
+- Encounter design
+- Progression and difficulty curves
+- World building elements
+
+## Resources Used
+- Domestika Course: [Introduction to Game Design](https://www.domestika.org/es/courses/941-introduccion-al-diseno-de-videojuegos/units/4554-documentos-principales)
+- Course materials and examples
+- Instructor's documentation templates
+
+---
+*This devlog entry is part of my ongoing game development journey.*
