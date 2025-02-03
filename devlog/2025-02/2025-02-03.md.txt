@@ -1,0 +1,51 @@
+Game Design Journey - Course Completion Devlog
+Course Completion Milestone
+Successfully completed the Introduction to Game Design course at Domestika! 🎮 The journey has been incredibly enlightening, especially when it came to the final project.
+The Evolution of Ideas
+Initial Concept: The Purge Co-op Experience
+Started ambitious with a 4-player cooperative game based on The Purge:
+
+Expanded on course work
+Complex multiplayer mechanics
+Rich narrative elements
+Multiple intertwining systems
+
+The Learning Moment: Scope Management
+As development progressed, I encountered a valuable lesson in game design:
+
+Ideas began multiplying exponentially
+Mechanics kept branching into new systems
+Feature creep started becoming apparent
+Realized the importance of maintaining focused design
+
+The Pivot: Embracing "Less is More"
+Made the decision to redirect my efforts:
+
+Understood that effective game design isn't about quantity
+Recognized the value of focused, polished mechanics
+Learned that constraints often breed creativity
+
+Current Project: Cave of the Tayos
+Project Overview
+Developing a focused metroidvania platformer based on Ecuador's mysterious Cave of the Tayos:
+
+2D platformer mechanics
+Metroidvania progression
+Based on real-world location
+Cultural elements integration
+
+Development Status
+
+GDD in progress
+Core mechanics defined
+World structure planned
+More updates coming soon...
+
+Key Learnings
+
+Scope management is crucial
+Quality over quantity in game design
+Cultural inspiration can create unique experiences
+The importance of focused design documents
+
+Stay tuned for more updates as the Cave of the Tayos GDD development continues...
