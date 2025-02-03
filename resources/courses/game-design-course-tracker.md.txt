@@ -1,216 +1,65 @@
-# Game Design Course Tracker - Domestika
-[Jump to: [Progress](#progress-metrics) | [Units](#detailed-unit-tracking) | [Reflections](#unit-reflections) | [Actions](#action-items) | [Applications](#practical-applications)]
+# Game Design Course Progress Tracker
+Course: Introduction to Game Design (Domestika)
 
-## Course Details
-- Course Name: Introduction to Video Game Design
-- Instructor: Aleix Risco
-- Platform: Domestika
-- Start Date: January 2025
-- Target Completion: January 31, 2025
-- Language: Spanish
+## Completed Modules
 
-## Progress Metrics
-- Weekly Goal: 2 Units
-- Overall Progress: 50% (3/6 units)
-Time Investment:
-- Unit 1: [X] hours
-- Unit 2: [X] hours
-- Unit 3: [X] hours
-Remaining Units: 3
-Estimated Time Needed: [X] hours
+### Main Character Documentation ✅
+**Key Learnings:**
+- Character psychology & background development
+- Ability and skill documentation
+- Design-gameplay integration
+- Narrative and mechanical aspects documentation
+- Character progression systems
 
-## Detailed Unit Tracking
+### Enemy Design Documentation ✅
+**Key Learnings:**
+- Generic vs. Boss enemy design
+- NPC behavior patterns
+- Combat engagement systems
+- AI movement patterns
+- Enemy mechanics documentation
+- Interaction design
 
-### Completed Units
-✓ U1: Introduction to Video Game Design
-✓ U2: Game Design Document (GDD)
-✓ U3: Game Design Essentials
+### Weapons Documentation ✅
+**Key Learnings:**
+- Weapon specification standards
+- Balance considerations
+- Mechanical documentation
+- Integration with character systems
+- Combat design principles
 
-### Current Focus
-🔄 U4: Level Design
-⭕ U5: Control and Psychology
-⭕ U6: Final Project
+### Gameplay Design Documentation ✅
+**Key Learnings:**
+- Core mechanic documentation
+- Player interaction systems
+- Game rules framework
+- Balance and progression design
+- System interaction documentation
 
-### U1: Introduction to Video Game Design [COMPLETED]
-- [✓] 1. Introduction
-- [✓] 2. What is a video game?
-- [✓] 3. What makes a good game?
-- [✓] 4. Types of players
-- Key Learnings:
-  - Video game definition and core components
-  - Player types and motivations
-  - Elements of engaging gameplay
+### Level Design Documentation ✅
+**Key Learnings:**
+- Environment design principles
+- Flow and progression
+- Encounter design methodology
+- Difficulty curve implementation
+- World-building elements
 
-### U2: Game Design Document (GDD) [COMPLETED]
-- [✓] 1. What is a GDD?
-- [✓] 2. Game design essentials
-- [✓] 3. Structure and content
-- [✓] 4. GDD examples
-- Key Learnings:
-  - GDD structure and importance
-  - Essential elements of game documentation
-  - Industry standards for documentation
+## Final Project Status
+- Initial Concept: 4-player Purge-themed co-op ⚠️ (Scope too large)
+- Current Project: Cave of the Tayos Metroidvania 🚧 (In Development)
 
-### U3: Game Design Essentials [COMPLETED]
-- [✓] 1. Core systems
-- [✓] 2. Mechanics and dynamics
-- [✓] 3. Game flow
-- [✓] 4. Challenge and balance
-- Key Learnings:
-  - Core gameplay systems
-  - Game mechanics vs dynamics
-  - Flow theory in games
+## Overall Course Takeaways
+- Importance of scope management
+- Documentation best practices
+- System integration principles
+- Design iteration process
+- Cultural integration in game design
 
-### U4: Level Design [IN PROGRESS]
-- [ ] 1. Introduction to level design
-- [ ] 2. Level structure
-- [ ] 3. Challenge progression
-- [ ] 4. Player guidance
-- Notes:
-  - Key concepts:
-  - Questions:
-  - Resources:
+## Skills Acquired
+- Game Design Document (GDD) creation
+- Character and enemy design
+- Weapon system design
+- Level design fundamentals
+- Gameplay mechanics documentation
 
-### U5: Control and Psychology
-- [ ] 1. Player control systems
-- [ ] 2. Game psychology
-- [ ] 3. Engagement techniques
-- [ ] 4. Player feedback
-- Notes:
-  - Key concepts:
-  - Questions:
-  - Resources:
-
-### U6: Final Project
-- [ ] 1. Project planning
-- [ ] 2. Implementation
-- [ ] 3. Documentation
-- [ ] 4. Presentation
-- Project Status: Not Started
-- Project Ideas:
-
-## Unit Reflections
-### U3: Game Design Essentials
-What Worked Well:
-- [Note successful learning approaches]
-- [List concepts that clicked]
-
-Areas for Improvement:
-- [Note challenging concepts]
-- [List topics needing review]
-
-Key Applications:
-- [How these concepts apply to your game]
-- [Specific mechanics you want to implement]
-
-## Action Items & Next Steps
-High Priority:
-- [ ] Complete Unit 4 by January 17
-- [ ] Review Unit 3 notes before starting Unit 4
-- [ ] Start brainstorming final project ideas
-
-Medium Priority:
-- [ ] Create sample level design document
-- [ ] Research similar games for reference
-
-Low Priority:
-- [ ] Collect useful resources and tutorials
-- [ ] Network with course peers
-
-Blockers/Challenges:
-- [List any obstacles]
-- [Note potential solutions]
-
-## Practical Applications
-Implementation Ideas by Unit:
-
-U1: Introduction
-- Player type focus: [Your target player type]
-- Core engagement strategy: [Your approach]
-
-U2: GDD
-- Documentation structure: [Your planned format]
-- Key sections to emphasize: [Priority areas]
-
-U3: Game Design Essentials
-- Core mechanic ideas: [Your concepts]
-- Flow elements: [How you'll maintain player engagement]
-
-## Extended Learning
-Unit-Specific Resources:
-
-### U3 Resources
-Tutorials:
-- [Related tutorial links]
-- [YouTube videos]
-
-Example Games:
-- [Games that demonstrate concepts well]
-- [Games to analyze]
-
-Community Links:
-- [Relevant discussions]
-- [Forum threads]
-
-## Notes & Questions
-[Space for ongoing notes and questions]
-
-## Weekly Review Template
-Week of [Date]:
-- Units Completed:
-- Time Spent:
-- Key Learnings:
-- Next Week's Goals:
-
-## Unit Summaries
-
-### U1: Introduction to Video Game Design
-Key Concepts Learned:
-- Definition of a video game and its core components
-- Different player types (Achievers, Explorers, Socializers, Killers)
-- Elements that make a game engaging
-- Basic principles of game design
-
-Personal Takeaways:
-- Understanding of fundamental game design principles
-- Knowledge of how to analyze games from a designer's perspective
-- Awareness of different player motivations
-
-Application for My Project:
-- Need to define my target player type
-- Must establish core engagement loops
-- Should focus on one strong core mechanic
-
-### U2: Game Design Document (GDD)
-Key Concepts Learned:
-- Purpose and importance of GDD
-- Standard structure of game design documents
-- How to document game mechanics and systems
-- Best practices for technical documentation
-
-Personal Takeaways:
-- Understanding of professional documentation standards
-- Ability to structure game ideas systematically
-- Knowledge of what details to include and prioritize
-
-Application for My Project:
-- Create a clear, concise GDD template
-- Focus on essential documentation first
-- Keep documentation updated as project evolves
-
-### U3: Game Design Essentials
-Key Concepts Learned:
-- Core gameplay systems and mechanics
-- Difference between mechanics and dynamics
-- Game flow theory and implementation
-- Balance in game design
-
-Personal Takeaways:
-- Understanding of how to create engaging gameplay loops
-- Knowledge of balancing difficulty and reward
-- Insight into player engagement techniques
-
-Application for My Project:
-- Define core gameplay loop
-- Plan difficulty progression
-- Design reward systems
+*Course Completed: Introduction to Game Design - Domestika*
