@@ -47,9 +47,9 @@ I am on a structured learning path through 2024-2025 that includes:
 
 Follow the Journey
 
-Development Blog: [Coming Soon]
-Twitter: [Coming Soon]
-Itch.io: [Coming Soon]
+- Development Blog: [Coming Soon]
+- Twitter: [@RafaelJE97: https://x.com/RafaelJE97]
+- Itch.io: [Coming Soon]
 
 Contact
 I welcome anyone who is also learning game development or has questions about my journey to reach out!
