@@ -1,15 +1,15 @@
 # game-dev-journey
-Game Development Journey
+🎮 Game Development Journey 🎮
 
 Current Project: Project Tayos
 I am developing a 2D Metroidvania game inspired by Ecuador's enigmatic Cave of Tayos. This project is my foundational learning platform and marks my serious entry into game development.
 
 Project Goals
 
-Craft a compelling Metroidvania game that showcases real-world Ecuadorian locations, history, and mythology
-Document the entire development process, from concept to completion
-Master and implement best practices in game development
-Establish a comprehensive skill set across various disciplines, including:
+1. Craft a compelling Metroidvania game that showcases real-world Ecuadorian locations, history, and mythology
+2. Document the entire development process, from concept to completion
+3. Master and implement best practices in game development
+4. Establish a comprehensive skill set across various disciplines, including:
 
 - Game Design
 - Narrative Design
