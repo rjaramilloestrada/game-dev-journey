@@ -1,0 +1,17 @@
+**Date: 02/05/2025**
+
+In January, I completed the online course "Introduction to Game Design." I enrolled in this course to refresh my understanding of how to structure an effective Game Design Document (GDD), appreciate the importance of documenting every aspect of a project, and explore the various tools available for collaboratively creating a GDD with a team. Although I had learned much of this in college, this was an opportunity to revisit these concepts and start working on my personal project.
+
+During the course, I had an enjoyable experience. For my final project, I was tasked with designing a complete GDD. I presented some work on the graphical user interface (GUI) and documentation for a game inspired by *The Purge*, which was planned as a four-player co-op experience. As I delved deeper into creating the GDD, I wanted to add more mechanics and elements, and eventually, the scope became too large for a personal project. This process highlighted my lack of understanding regarding how to build the lore and narrative design for the world and characters I was developing. The lesson was clear: I needed to learn more about Narrative Design. Consequently, I set aside the GDD for the imaginary game based on *The Purge* and redirected my focus toward my dream project: a 2D metroidvania game inspired by the mythical Cave of Tayos. (I will dedicate an entire log to explain why this is my dream project.) I also realized that it's okay to start small. There's no need to go all out to showcase my abilities; a small passion project can be just as effective in demonstrating what I can do.
+
+After finishing the course, I enrolled in a Narrative Design Masterclass. So far, I have completed 50% of the course and have acquired essential skills for an indie developer with limited prior experience in narrative design. These skills include:
+
+- Plot Theory
+- Concept Creation
+- Game Pitching Techniques
+- Crafting an Effective One-Page Pitch
+- World Building
+
+A Narrative Designer typically handles various aspects of a large-scale project. However, since I aim to develop this game independently, I must acquire these skills to enrich the lore and create an initial draft of the game's story. I do plan to work with a talented narrative designer to help build this world in the future. But, for now, my limited skills in writing will suffice. 
+
+I aim to complete this masterclass by the end of the coming week, and I plan to implement all these skills in developing the world, lore, and characters for my game. We’ll see how it goes.
